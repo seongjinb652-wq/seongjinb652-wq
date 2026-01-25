@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!-- -->
 **seongjinb652-wq/seongjinb652-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -31,7 +31,7 @@ seongjinb652@gmail.com (gmail.com in Bing)
 Don’t specify (as you already set in your profile).
 ⚡ Fun fact: ...  
 I enjoy bridging the gap between high-level architecture and hands-on coding, and I see coding as a way to sharpen my architectural thinking.
--->
+
 # 👋 안녕하세요, 저는 성진입니다!
 
 ### Building SCM & Health AI solutions at Samsung | Smart Factory Innovator | Python & ML | Open Source Lover
