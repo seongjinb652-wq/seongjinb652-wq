@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 Previously, I worked extensively with CAD, PLM, MES, and Smart Factory solutions at Samsung Semiconductor, 
 including experience as an instructor.  
 Currently, I am focusing on studying AI, Python, and Machine Learning to expand my expertise into intelligent systems.
+
 과거에는 삼성 반도체에서 CAD, PLM, MES, Smart Factory 분야에서 많은 경험과 강사 경력을 쌓았습니다.  
 현재는 AI, Python, Machine Learning을 공부하며 지능형 시스템 분야로 전문성을 확장하고 있습니다.
 
