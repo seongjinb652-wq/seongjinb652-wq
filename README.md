@@ -21,6 +21,11 @@ However, selected parts can be shared publicly upon request.
 Professional & Sophisticated
 A domain-specific dictionary of 500+ terms, built upon 10 years of field expertise to resolve term fragmentation encountered while architecting a RAG system for 112GB of unstructured Feasibility Study (FS) data.
 
+Result-Oriented & Technical
+Standardized 500+ domain terms to tackle vocabulary inconsistency in a RAG pipeline. This dictionary leverages a decade of industry experience to optimize retrieval accuracy across 112GB of unstructured FS datasets.
+
+Bridging the gap between 10 years of FS expertise and AI: A 500-term domain dictionary designed to harmonize fragmented terminology within a 112GB unstructured data RAG system.
+
 🔭 I’m currently working on ...  
 Building SCM & Health AI solutions at Samsung, focusing on Smart Factory innovation and AI-driven systems.
 🌱 I’m currently learning ...  
