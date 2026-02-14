@@ -11,7 +11,7 @@ Currently, I am focusing on studying AI, Python, and Machine Learning to expand 
 과거에는 삼성 반도체에서 CAD, PLM, MES, Smart Factory 분야에서 많은 경험과 강사 경력을 쌓았습니다.  
 현재는 AI, Python, Machine Learning을 공부하며 지능형 시스템 분야로 전문성을 확장하고 있습니다.
 
-112GB의 비정형 FS 데이터를 RAG로 구축하며 겪은 용어 파편화 문제를 해결하기 위해, 10년간의 현장 경험을 바탕으로 구축한 500개 규모의 도메인 사전입니다
+350 GB의 비정형 FS 데이터를 RAG로 구축하며 겪은 용어 파편화 문제를 해결하기 위해, 10년간의 현장 경험을 바탕으로 구축한 500개 규모의 도메인 사전입니다
 
 This SCM-AI solution was applied in small and medium-sized enterprises, 
 not at Samsung Semiconductor.  
@@ -24,7 +24,7 @@ A domain-specific dictionary of 500+ terms, built upon 10 years of field experti
 Result-Oriented & Technical
 Standardized 500+ domain terms to tackle vocabulary inconsistency in a RAG pipeline. This dictionary leverages a decade of industry experience to optimize retrieval accuracy across 112GB of unstructured FS datasets.
 
-Bridging the gap between 10 years of FS expertise and AI: A 500-term domain dictionary designed to harmonize fragmented terminology within a 112GB unstructured data RAG system.
+Bridging the gap between 10 years of FS expertise and AI: A 500-term domain dictionary designed to harmonize fragmented terminology within a 350 GB unstructured data RAG system. Design Hybrid multi chunk em
 
 🔭 I’m currently working on ...  
 Building SCM & Health AI solutions at Samsung, focusing on Smart Factory innovation and AI-driven systems.
