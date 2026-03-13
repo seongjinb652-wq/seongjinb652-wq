@@ -11,12 +11,24 @@ Currently, I am focusing on studying AI, Python, and Machine Learning to expand 
 과거에는 삼성 반도체에서 CAD, PLM, MES, Smart Factory 분야에서 많은 경험과 강사 경력을 쌓았습니다.  
 현재는 AI, Python, Machine Learning을 공부하며 지능형 시스템 분야로 전문성을 확장하고 있습니다.
 
-- 이 파일
-- RAG : (PRIVATE)350 GB의 비정형 FS 데이터를 RAG로 구축하며 겪은 용어 파편화 문제를 해결하기 위해, 여러개의 chunk 사이즈로 검색능력을 향상 시킨 버전
+- seongjinb652 : (PUBLIC) 이 레포지토리.
+- RAG      : (PRIVATE)350 GB의 비정형 FS 데이터를 RAG로 구축하며 겪은 용어 파편화 문제를 해결하기 위해, 여러개의 chunk 사이즈로 검색능력을 향상 시킨 버전
 - Corn-ai  : (PRIVATE) 옥수수 통조림을 만들기 위해 불량 옥수수, 옥수수 수염을 검출함. 로봇과 연계. 3개 카메라 처리.
-- 
+- DBTL     : (Private)  JavaScript. 생명과학 , BIO FOUNDRY 에서 DBTL 과정의 여러 장비, Design , Build , Test , Learn 을 위한 여러 버젼의 실험과 배치, 결과등을
+                        생명과학 요구사항에 맞도록 관리.
+- sample-code : (Public) 예제와 타 과제 분석결과 재사용성이 있는 코드 모음집
+- SCM-AI : (Private) SCM 에서 SPIKE 성 발주 및 수요를 AI RL 강화학습을 통해 최적화 하여 평균 재고와 발주 횟수를 50% 절감. (실 적용 로직 포함 PRIVATE)
+- bert-lib : (Public) 버트 학습과 실습 코드
+- ARM7-BASIC : (Public) ARM 코드 학습과 실습 코드 . C
+- langchain-lib : (Public) LANGCHAIN 최초 실습 검증 코드. RAG  프로젝트에 적용함.
+- ai-anomaly-detection-lib : (Public) 최초 실습 검증 코드. Corn-ai 실제 기업 적용전 학습 실습 코드.
+- LLM-API-LIB : (Public) 최초 실습 검증 코드. RAG    프로젝트에 적용함.
+- GRPO-LIB :  (Public) 최초 실습 검증 코드. SCM-AI 프로젝트에 적용함.
+- ASR-NER-DM-TTS : (Private) 최초 실습 검증 코드. RAG 프로젝트에 확장 적용함. 
 
-
+관리 원칙 : (Public) 엔비디아 인증 교육및 전파 교육용 실습 코드 모음집
+           (Private) 고객 혹은 의뢰에 의한 Poc 혹은 실제 적용 프로젝트 . 데이터를 올리지 않아도 테이블 구조 내용을 유추할 수 있으므로 Private 처리
+           Private 처리된 내용 - 중요한 것은 대부분 Private 이지만, 고객 정보 보호에 위배되지 않은한 문의 주시면 소개해 드리거나 공유해 드리겠습니다.
 
 
 This SCM-AI solution was applied in small and medium-sized enterprises, 
