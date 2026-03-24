@@ -11,13 +11,13 @@ Currently, I am focusing on studying AI, Python, and Machine Learning to expand 
 과거에는 삼성 반도체에서 CAD, PLM, MES, Smart Factory 분야에서 많은 경험과 강사 경력을 쌓았습니다.  
 현재는 AI, Python, Machine Learning을 공부하며 지능형 시스템 분야로 전문성을 확장하고 있습니다.
 
-- seongjinb652 : (PUBLIC) 이 레포지토리.
-- foerp    : (PRIVATE) 대기업 의퓨패션의 13개 매장을 가진 아울렛 회사. CREDIT , 판매 상황 , 재고를 고려하여 가격정책을 자동화하고 배송을 자동화.
-- RAG      : (PRIVATE) 건설,리조트,호텔,생명과학,코인, 투자유치 PM 회사의
+- seongjinb652 : (Public) 이 레포지토리.
+- foerp    : (Private) 대기업 의퓨패션의 13개 매장을 가진 아울렛 회사. CREDIT , 판매 상황 , 재고를 고려하여 가격정책을 자동화하고 배송을 자동화.
+- RAG      : (Private) 건설,리조트,호텔,생명과학,코인, 투자유치 PM 회사의
                       350 GB의 비정형 프로젝트 타당성 검토 데이터를 RAG로 구축, 여러개의 chunk 사이즈로 검색능력을 향상 시킨 버전
 -                     도시개발, 리조트 개발, 호텔, 스마트 팜, 공연 기획등 다양한 프로젝트의 이력을 내부 관리하고
 -                     기업가치 분석을 위한 학습 러닝 구조임. (멀티 청크 앙상블, langchain 및 ASR-NER-DM-TTS까지 적용)
-- Corn-ai  : (PRIVATE) 옥수수 통조림을 만들기 위해 불량 옥수수, 옥수수 수염을 검출함. 로봇과 연계. 3개 카메라 처리.
+- Corn-ai  : (Private) 옥수수 통조림을 만들기 위해 불량 옥수수, 옥수수 수염을 검출함. 로봇과 연계. 3개 카메라 처리.
 - DBTL     : (Private)  JavaScript. 생명과학 , BIO FOUNDRY 에서 DBTL 과정의 여러 장비, Design , Build , Test , Learn 을 위한 여러 버젼의 실험과 배치, 결과등을
                         생명과학 요구사항에 맞도록 관리.
 - sample-code : (Public) 예제와 타 과제 분석결과 재사용성이 있는 코드 모음집
