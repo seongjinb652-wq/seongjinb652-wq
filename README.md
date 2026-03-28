@@ -12,7 +12,8 @@ Currently, I am focusing on studying AI, Python, and Machine Learning to expand 
 현재는 AI, Python, Machine Learning을 공부하며 지능형 시스템 분야로 전문성을 확장하고 있습니다.
 
 - seongjinb652 : (Public) 이 레포지토리.
-- foerp    : (Private) 대기업 의퓨패션의 13개 매장을 가진 아울렛 회사. CREDIT , 판매 상황 , 재고를 고려하여 가격정책을 자동화하고 배송을 자동화.
+- lfn      : (private) 대기업 의류패션의 13개 매장을 가진 아울렛회사. credit , 판매 상황, 재고을 고려하여 가격정책을 자동화하고 배송을 자동화. JSP,HTML 베이스
+- foerp    : (Private) 대기업 의류패션의 13개 매장을 가진 아울렛 회사. CREDIT , 판매 상황 , 재고를 고려하여 가격정책을 자동화하고 배송을 자동화. JAVA,HTML 베이스
 - RAG      : (Private) 건설,리조트,호텔,생명과학,코인, 투자유치 PM 회사의
                       350 GB의 비정형 프로젝트 타당성 검토 데이터를 RAG로 구축, 여러개의 chunk 사이즈로 검색능력을 향상 시킨 버전
 -                     도시개발, 리조트 개발, 호텔, 스마트 팜, 공연 기획등 다양한 프로젝트의 이력을 내부 관리하고
